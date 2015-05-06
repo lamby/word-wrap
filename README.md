@@ -1,7 +1,7 @@
 Word Wrap
 ===========
 
-A Google Chrome extension that allows you to right click on a textarea and force the contents to wrap at 80 characters in Google Chrome.
+A Google Chrome extension that allows you to right click on a textarea and force the contents to wrap at 80 characters.
 
 ![demostration](http://i.imgur.com/5DUFs8z.gif)
 
