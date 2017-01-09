@@ -81,7 +81,7 @@ $(function() {
         function(request, sender, sendResponse) {
             if ((request.wrapText === true) && (editable !== null)) {
                 var original = editable.val();
-                var softWrapped = wordwrap.soft(80)(original);
+                var softWrapped = wordwrap.soft(72)(original);
 
                 editable.val(softWrapped);
 
